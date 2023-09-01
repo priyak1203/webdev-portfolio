@@ -3,7 +3,7 @@ import heroImg from '../assets/hero.svg';
 
 const Hero = () => {
   return (
-    <div className="bg-sky-100 py-24">
+    <div className="bg-sky-100 py-24 h-screen" id="home">
       <div className="align-element grid md:grid-cols-2 items-center gap-8">
         <article>
           <h1 className="text-7xl font-bold tracking-wider">I'm Betty</h1>

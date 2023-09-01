@@ -2,7 +2,7 @@ import SectionTitle from './SectionTitle';
 import aboutImg from '../assets/about.svg';
 const About = () => {
   return (
-    <section className="bg-white py-20" id="about">
+    <section className="bg-white py-24" id="about">
       <div className="align-element grid gap-16 items-center md:grid-cols-2">
         <img src={aboutImg} alt="about" className="w-full h-64" />
         <article>
